@@ -21,7 +21,7 @@ This mushroom genuses this model can detect are:
 
 ## Running this project
 
-[View a video explanation here](video link)
+[View a video explanation here](https://drive.google.com/file/d/1gGGx5MgdahSwqICQyDdbqE0siOVc_TmI/view?usp=sharing)
 
 1: Be sure the jetson inference library is installed on your system
 
