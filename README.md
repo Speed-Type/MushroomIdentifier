@@ -21,6 +21,8 @@ This mushroom genuses this model can detect are:
 
 ## Running this project
 
+[View a video explanation here](video link)
+
 1: Be sure the jetson inference library is installed on your system
 
 2: Clone the repository by running this command
@@ -37,5 +39,3 @@ cd MushroomIdentifier
 ```sh
 python3 mushroom.py path/to/file/here
 ```
-
-[View a video explanation here](video link)
