@@ -33,4 +33,9 @@ git clone https://github.com/Speed-Type/MushroomIdentifier
 cd MushroomIdentifier
 ```
 
+4: Run the python script
+```sh
+python3 mushroom.py path/to/file/here
+```
+
 [View a video explanation here](video link)
