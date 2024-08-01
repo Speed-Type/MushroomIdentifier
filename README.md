@@ -2,7 +2,8 @@
 
 Mushroom Identifier is an AI that can categorize a mushroom in one of nine broad genuses.
 
-![add image descrition here](direct image link here)
+![image of a mushroom](![382_HSyQTNbCoVQ](https://github.com/user-attachments/assets/54764509-068e-4333-bed8-c1ea40863caf)
+)
 
 ## The Algorithm
 
