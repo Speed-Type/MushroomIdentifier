@@ -6,7 +6,7 @@ Mushroom Identifier is an AI that can categorize a mushroom in one of nine broad
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The model is retrained from the resnet-18 model. The python file utilizes the .onnx file to recognize an image that the user inputs. A few test images are also included.
 
 ## Running this project
 
