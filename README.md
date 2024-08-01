@@ -9,29 +9,23 @@ Mushroom Identifier is an AI that can categorize a mushroom in one of nine broad
 The model is retrained from the resnet-18 model, using a dataset of over 5000 images. The python file utilizes the .onnx file to recognize an image that the user inputs. A few test images are also included.
 
 This mushroom genuses this model can detect are:
-
-Agaricus
-
-Amanita
-
-Boletus
-
-Cortinarius
-
-Entoloma
-
-Hygrocybe
-
-Russula
-
-Sullius
-
-Lactarius
-
+* Agaricus
+* Amanita
+* Boletus
+* Cortinarius
+* Entoloma
+* Hygrocybe
+* Russula
+* Sullius
+* Lactarius
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1: Be sure the jetson inference library is installed on your system
+
+2: Clone the repository by running this command
+```sh
+git clone https://github.com/
+```
 
 [View a video explanation here](video link)
