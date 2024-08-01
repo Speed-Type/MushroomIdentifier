@@ -25,7 +25,12 @@ This mushroom genuses this model can detect are:
 
 2: Clone the repository by running this command
 ```sh
-git clone https://github.com/
+git clone https://github.com/Speed-Type/MushroomIdentifier
+```
+
+3: Move into the project folder
+```sh
+cd MushroomIdentifier
 ```
 
 [View a video explanation here](video link)
