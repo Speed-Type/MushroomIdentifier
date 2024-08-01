@@ -1,6 +1,6 @@
-# Project Name
+# Mushroom Identifier
 
- Add short description of project here > 
+Mushroom Identifier is an AI that can categorize a mushroom in one of nine broad genuses.
 
 ![add image descrition here](direct image link here)
 
